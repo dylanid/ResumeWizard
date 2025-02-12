@@ -9,11 +9,17 @@ def read_file(file_path):
         return file.read()
     
 def main():
-    response = openai.ChatCompletion.create(
+    print("Reading Input...")
+    client = openai.Client()
+    response = client.chat.completions.create(
         model = "gpt-4",
-        messages = []
-
+        messages = [
+            {"role": "system", "content": read_file("Prompts/role.txt")},
+            {"role": "user", "content": "INFORMATION FOR RESUME:" + read_file("UserInput/Information.txt") + " JOB DESCRIPTION: " + read_file("UserInput/JobDescription.txt") + " RESUME TEMPLATE: " + read_file("UserInput/ResumeTemplate.txt")},
+        ]
     )
+    write_file("Output/Resume.tex", response.choices[0].message.content)
+    print("Done!")
 
 if __name__ == '__main__':
     main()

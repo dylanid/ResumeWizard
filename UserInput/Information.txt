@@ -1,5 +1,13 @@
 *Enter the relevant information into the fields below. Any field left blank will simply not be put onto the resume.*
 
+-CONTACT INFORMATION-
+
+FULL NAME: { }
+PHONE NUMBER: { }
+EMAIL: { }
+LINKEDIN: { }
+PORTFOLIO/WEBSITE: { }
+
 -EDUCATION-
 
 SCHOOL: { }
@@ -62,11 +70,3 @@ DESCRIPTION: { }
 ISSUING ORGANIZATION: { }
 DATE RECEIVED: { }
 DESCRIPTION: { }
-
--CONTACT INFORMATION-
-
-FULL NAME: { }
-PHONE NUMBER: { }
-EMAIL: { }
-LINKEDIN: { }
-PORTFOLIO/WEBSITE: { }
