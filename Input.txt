@@ -1,0 +1,72 @@
+*Enter the relevant information into the fields below. Any field left blank will simply not be put onto the resume.*
+
+-EDUCATION-
+
+SCHOOL: { }
+GPA: { }
+START DATE: { }
+END DATE: { }
+DEGREE: { }
+RELEVANT COURSEWORK: { }
+
+-EXPERIENCE-
+
+JOB TITLE: { }
+COMPANY: { }
+START DATE: { }
+END DATE: { }
+DATA: { } *Any section labeled data is for you to paste in any descriptions you have of the activity at hand. For example, you can paste the online job description for the position you are listing.*
+
+-JOB TITLE: { }
+COMPANY: { }
+START DATE: { }
+END DATE: { }
+DATA: { }
+
+-PROJECTS-
+
+PROJECT NAME: { }
+DESCRIPTION: { }
+DATA: { }
+GITHUB LINK (if applicable): { }
+
+-PROJECT NAME: { }
+DESCRIPTION: { }
+DATA: { }
+GITHUB LINK (if applicable): { }
+
+-SKILLS-
+
+PROGRAMMING LANGUAGES: { }
+TOOLS & FRAMEWORKS: { }
+OTHER TECHNICAL SKILLS: { }
+
+-CERTIFICATIONS-
+
+CERTIFICATION NAME: { }
+ISSUING ORGANIZATION: { }
+DATE EARNED: { }
+
+-CERTIFICATION NAME: { }
+ISSUING ORGANIZATION: { }
+DATE EARNED: { }
+
+-AWARDS & ACHIEVEMENTS-
+
+AWARD NAME: { }
+ISSUING ORGANIZATION: { }
+DATE RECEIVED: { }
+DESCRIPTION: { }
+
+-AWARD NAME: { }
+ISSUING ORGANIZATION: { }
+DATE RECEIVED: { }
+DESCRIPTION: { }
+
+-CONTACT INFORMATION-
+
+FULL NAME: { }
+PHONE NUMBER: { }
+EMAIL: { }
+LINKEDIN: { }
+PORTFOLIO/WEBSITE: { }
